@@ -1,0 +1,15 @@
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.csproj.AssemblyReference.cache
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.GeneratedMSBuildEditorConfig.editorconfig
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.AssemblyInfoInputs.cache
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.AssemblyInfo.cs
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.csproj.CoreCompileInputs.cache
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\bin\Debug\net6.0\ConsoleAppTask23.exe
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\bin\Debug\net6.0\ConsoleAppTask23.deps.json
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\bin\Debug\net6.0\ConsoleAppTask23.runtimeconfig.json
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\bin\Debug\net6.0\ConsoleAppTask23.dll
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\bin\Debug\net6.0\ConsoleAppTask23.pdb
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.dll
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\refint\ConsoleAppTask23.dll
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.pdb
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ConsoleAppTask23.genruntimeconfig.cache
+H:\VisualProjects\ConsoleAppTask23\ConsoleAppTask23\obj\Debug\net6.0\ref\ConsoleAppTask23.dll
