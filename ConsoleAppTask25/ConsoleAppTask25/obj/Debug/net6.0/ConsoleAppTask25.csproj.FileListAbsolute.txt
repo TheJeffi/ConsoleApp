@@ -1,0 +1,15 @@
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\bin\Debug\net6.0\ConsoleAppTask25.exe
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\bin\Debug\net6.0\ConsoleAppTask25.deps.json
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\bin\Debug\net6.0\ConsoleAppTask25.runtimeconfig.json
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\bin\Debug\net6.0\ConsoleAppTask25.dll
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\bin\Debug\net6.0\ConsoleAppTask25.pdb
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.csproj.AssemblyReference.cache
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.GeneratedMSBuildEditorConfig.editorconfig
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.AssemblyInfoInputs.cache
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.AssemblyInfo.cs
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.csproj.CoreCompileInputs.cache
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.dll
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\refint\ConsoleAppTask25.dll
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.pdb
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ConsoleAppTask25.genruntimeconfig.cache
+H:\VisualProjects\ConsoleAppTask25\ConsoleAppTask25\obj\Debug\net6.0\ref\ConsoleAppTask25.dll
